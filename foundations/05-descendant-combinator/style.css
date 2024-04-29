@@ -1,0 +1,31 @@
+div p {
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Other solution similar */
+
+/* div > p {
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* Another with the classes can be: */
+/* .container .text {
+    styles........
+} */
+
+/* Another similar */
+
+/* .container p {
+    styles...
+} */
+
+/* Another one: */
+/* div .text {
+    styles...
+} */
+
+/* This Exercises was helpful */
